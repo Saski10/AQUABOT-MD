@@ -42,7 +42,7 @@
                 "stic" : {
                               "NEED"   : "*🧜‍♀️💬 please mention an image or video*" ,
                               "C_STIC" : "```🧰creating sticker...```" ,
-                              "N_STIC" : "*🧜‍♀️💬 Please mention a sticker.*" ,
+                              "N_STIC" : "*الـمـرجـو مـنـشـن الـمـلـصـق ⚡🫶🏻.*" ,
                               "C_IMG"  : "```🧰converting sticker to image...```" ,
                               "C_VID"  : "```🧰converting animated sticker to video...```" 
                            },
